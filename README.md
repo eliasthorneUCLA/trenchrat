@@ -1,7 +1,7 @@
 <div align="center">
   <img src="static/logo_wide_rm.png" alt="RAT Logo" width="700"/>
 
-# Adversarial Attacks on Deep Reinforcement Agents for Targeted Behaviors
+# Brainwave scanning interface for a Trench Rat
 
 <p align="center" style="border-bottom: 2px solid #000; width: 100%; margin: 0 auto;"></p>
 
